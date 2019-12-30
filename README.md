@@ -87,6 +87,9 @@ output_data = engine.run(input_data)[0]
 print(output_data)
 print(output_data.shape)
 ```
+## Convert Onnx To Tenosrrt Using Python 
+Get the script from the python folder and follow the steps written in Readme.txt file.
+
 
 ## C++ library usage
 
